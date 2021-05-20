@@ -3,6 +3,10 @@ Rencana konten wpu
 - javascript
   *ES6
   *Framewokrk javascript
+   + vue
+   + react
 - fundamental data dasar
 - php framework
+   + lavarel
 - vlog
+- phyton
