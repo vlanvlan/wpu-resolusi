@@ -4,6 +4,7 @@ Rencana konten wpu
   *ES6
   *Framewokrk javascript
    + vue
+   + react
 - fundamental data dasar
 - php framework
    + lavarel
