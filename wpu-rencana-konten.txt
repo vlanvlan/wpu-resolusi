@@ -3,5 +3,6 @@ Rencana konten wpu
 - javascript
   *ES6
   *Framewokrk javascript
+- fundamental data dasar
 - php framework
 - vlog
