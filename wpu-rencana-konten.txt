@@ -1,0 +1,7 @@
+Rencana konten wpu
+
+- javascript
+  *ES6
+  *Framewokrk javascript
+- php framework
+- vlog
